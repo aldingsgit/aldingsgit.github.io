@@ -29,17 +29,17 @@ TEXT
 
 Every May, the endless epoch of New England winter exhales one last time.
 
-Amidst the chaos of a final storm, summer emerges naked and unprepared.
+Amidst the chaos of a final mercurial storm, summer emerges naked and unprepared.
 
 Before finally, by some arcane transformation, 
 
-The pregnant bloom of the approaching equinox inundated the impenetrable tundra outside.
+The pregnant bloom of the plodding equinox sweeps aside the dry tundra.
 
-But we tell ourselves we’ve seen this one before
+But shame on me for forgetting...
 
 There's no such thing as a New England spring!
 
-Next year, we won't be fooled again…
+Next year, I won't be fooled again.
 
 
 ---
