@@ -19,6 +19,8 @@ TEXT
 
 TEXT
 
+
+
 ## Spring in the Bay State (5/19)
 
 ---
@@ -27,15 +29,15 @@ TEXT
 
 Every May, the endless epoch of New England winter exhales one last time.
 
-Amidst the chaos of a final storm, summer emerges naked and unprepared -
+Amidst the chaos of a final storm, summer emerges naked and unprepared.
 
-As if by some arcane transformation, the tundra winter-scape was instantly inundated 
+By some arcane transformation, the pregnant bloom of the approaching equinox
 
-By the pregnant bloom of the approaching equinox.
+Inundated the tundra winter-scape,
 
 But we tell ourselves we’ve seen this one before; we already know.
 
-No such thing as a New England spring! How could we forget about it?
+No such thing as a New England spring! How could that?
 
 They won’t fool me next year…
 
