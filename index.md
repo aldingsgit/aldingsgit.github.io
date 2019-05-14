@@ -1,4 +1,4 @@
-## Bayesian Thinking in Everyday Life
+## 5/14/19 Bayesian Thinking in Everyday Life
 
 ---
 
