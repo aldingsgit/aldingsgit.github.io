@@ -35,7 +35,7 @@ Before finally, by some arcane transformation,
 
 The pregnant bloom of the plodding equinox sweeps aside the dry tundra.
 
-But shame on me for forgetting...
+But shame on me for forgetting..
 
 There's no such thing as a New England spring!
 
