@@ -31,15 +31,15 @@ Every May, the endless epoch of New England winter exhales one last time.
 
 Amidst the chaos of a final storm, summer emerges naked and unprepared.
 
-Before finally... by some arcane transformation! 
+Before finally, by some arcane transformation, 
 
-The pregnant bloom of the approaching equinox inundated the impenetrable tundra,
+The pregnant bloom of the approaching equinox inundated the impenetrable tundra outside.
 
-But we tell ourselves we’ve seen this one before; we already know.
+But we tell ourselves we’ve seen this one before
 
-No such thing as a New England spring! How could we forget that?
+There's no such thing as a New England spring!
 
-They won’t fool me next year…
+Next year, we won't be fooled again…
 
 
 ---
