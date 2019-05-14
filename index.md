@@ -29,9 +29,13 @@ TEXT
 
 Every May, the endless epoch of New England winter exhales one last time.
 
-Crawling out from the depths of the frozen desert, naked and trembling.
+Crawling out from the depths of the frozen desert, 
 
-Before finally, the levee breaks and 
+Summer emerges, naked and trembling,
+
+Slowly inching along,
+
+Before one day, the levee breaks. 
 
 The pregnant bloom of the plodding equinox sweeps aside the dry tundra.
 
