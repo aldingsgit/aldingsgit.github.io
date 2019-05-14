@@ -29,9 +29,11 @@ TEXT
 
 Every May, the endless epoch of New England winter exhales one last time.
 
-Amidst the chaos of a final mercurial storm, summer emerges naked and unprepared.
+Amidst the chaos of a final mercurial storm, summer reluctantly emerges 
 
-Before finally, by some arcane transformation, 
+Fully naked and trembling.
+
+Before finally, 
 
 The pregnant bloom of the plodding equinox sweeps aside the dry tundra.
 
