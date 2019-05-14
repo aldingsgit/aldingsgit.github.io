@@ -19,9 +19,9 @@ TEXT
 
 TEXT
 
----
-
 ## Spring in the Bay State (5/19)
+
+---
 
 Every May, the endless epoch of New England winter exhales one last time.
 
