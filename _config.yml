@@ -1,9 +1,9 @@
 title: Albert Ding # your name (or website title) here
-logo: "/images/pict.png?raw=true" # your photo (or logo) here
+logo: "/images/pict.PNG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Empowering teams with data-driven solutions ∈ {ML ∪ Finance ∪ Strategy} 
   <br><br>
-  [View My Resume](/pdf/Ding.A_Resume.pdf)
+  <a href="/pdf/Ding.A_Resume.pdf">View My Resume
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
