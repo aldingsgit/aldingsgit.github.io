@@ -21,7 +21,13 @@ TEXT
 
 ---
 
+### Spring in the Bay State  
 
+Every May, the endless epoch of New England winter exhales one last time. 
+In the remnants of the confusion, summer emerges naked and unprepared-as if by some arcane transformation, the tundra winter-scape inundated overnight by the pregnant bloom of the approaching equinox.
+But we tell ourselves we’ve seen this one before; we already know. 
+No such thing as a New England spring – weren’t we expecting this?
+They won’t fool me next year…
 
 
 ---
