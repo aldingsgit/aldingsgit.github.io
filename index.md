@@ -4,23 +4,27 @@
 
 ### The Math Works Out
 
-Whether you’re a grizzled PhD student or green undergrad, you’ll be asked around May 
+Whether you’re a grizzled PhD student or green undergrad, you’ll be asked around May a question innocent enough but one heavy with gravitas that sinks into you.
 
-- (a seemingly innocent question, but heavy with gravitas, weighing on your mind and sinking deeper into your conciousness) -
+What are you doing this summer?
 
-what are you doing this summer?
-
-Every hungry, bright-eyed student has been trained to dedicate precious summer months to interning since learning of the terms Kleiner Perkins and Goldman Sachs. 
+Every hungry, bright-eyed student has been trained to dedicate precious summer months to interning since learning the terms Kleiner Perkins and Mckinsey. 
 
 And as the post-offer bliss and visions of an idyllic corporate dream fade, they are quickly replaced by the harsh uncertainty that a full-time offer and the privelages of that life are far from guaranteed. 
 
-Take my friend who has accepted an MBA internship at a well-known technology firm (ie. FAANG) and has begin brooding over all the typical anxieties about receiving a fulltime offer.
+Take my friend who has accepted an MBA internship at a well-known tech firm (ie. FAANG).
 
-And as fantasies and doubts creep through his mind, he wonders what is the likelihood of him being hired fulltime, now that he’s gotten the internship offer?
+He is thrilled and excited by the opporunity but has already began brooding over the odds of a fulltime offer.
 
-Well, good thing we have statistics to tell us about this uncertainty. 
+And as fantasies and doubts intermingle throughout his psyche, he is left wondering: 
 
-Specifically, Bayes Rule will tell us the probability of an event based on an estimate of the prior distribution. 
+What is the probability of being hired fulltime as a summer intern?
+
+Well, good thing we have statistics to tell us about the mathematics of dealing with this uncertainty. 
+
+### Thanks Bayes
+
+Bayes Rule will tell us the probability of an event based on an estimate of the prior distribution. 
 
 The prior distribution can be understood as a proxy measurement of previous knowledge or information associated with the event. 
 
