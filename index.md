@@ -20,7 +20,7 @@ And as fantasy and doubt intermingle throughout his psyche, he is left wondering
 
 "What is the probability that I'll be hired on fulltime as a summer intern?"
 
-Well, good thing we can use statistics to soothe us with the math of dealing with uncertainty.... 
+Well, good thing we can use statistics to soothe us with the math of dealing with uncertainty. 
 
 ### Thanks Bayes
 
