@@ -64,7 +64,7 @@ TEXT
 
 
 
-## Shower Thoughts / Leisure writing (5/19)
+## Shower Thoughts (5/19)
 
 ---
 
