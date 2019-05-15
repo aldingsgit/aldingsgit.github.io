@@ -40,6 +40,13 @@ So in the case of my intern friend,
 
 
 
+
+He should feel good and optimisti cabout the future while acknowledging there is some level of uncertainty simply outside of his control. And
+
+ it's funny because if you subscribe at all to the power of positive thinking or habiets of mind, then this is how he should have acted and believed all along. 
+
+We didn't need all this math and statistics to get here but it sure feels nice.
+
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
