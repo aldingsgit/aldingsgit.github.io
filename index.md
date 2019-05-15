@@ -14,7 +14,7 @@ And as visions of an idyllic corporate dream fade, the post-offer euphoria is je
 
 Take my friend a summer intern at a well-known tech firm (ie. FAANG).
 
-He feels blissfully thrilled for a moment before the brooding  shadows of his brain begin contemplating the odds of a fulltime offer.
+He feels blissfully thrilled for a moment before the brooding shadows of his brain begin contemplating the odds of a fulltime offer.
 
 And as fantasy and doubt intermingle throughout his psyche, he is left wondering: 
 
@@ -24,13 +24,26 @@ Well, good thing we can use statistics to soothe us with the math of dealing wit
 
 ### Thanks Bayes
 
-Bayes Rule will tell us the probability of an event based on an estimate of the prior distribution. 
+Bayes Rule will tell us the probability of an event based on an estimate of the prior distribution.
 
-The prior distribution can be understood as a proxy measurement of previous knowledge or information associated with the event. 
+The resulting probability is known as the posterior distribution with its initial input, the prior distribution, functioning as a proxy measurement of previous knowledge or information associated with the event. 
 
-More formally, the prior distribution is the probability of an observed dataset given a population parameter theta. 
+More formally, the prior distribution is the probability of a population parameter theta (Θ) given an observed dataset.
 
-This is an exact reversal of the logical ordering that we are trying to estimate, the posterior distribution: the probability of a population parameter given the data set.
+A parameter is a summary metric for a population, which we can informally be defined as the entire set of observations within the group of interest we're measuring; this is distinct from the terms sample and statistic which are the corresponding analogs for some portion of the populations less than the whole.
+
+With that understanding, the prior distribution is therefore the density function of seeing the observed dataset conditioned on Θ summary metric being exactly true, or the likelihood, which in math notation is  P(Data | Θ).
+
+We multiply the likelihood by the prior probability of observing theta (Θ) and divide by a normalizing constant known as P(Data) to adjust the density function to sum to one, which by definition must be the sum or integral of any probability density function.
+
+In a sometimes problematic calculation, we perform
+
+
+
+If we think carefully about this, this is the exact reversal of logical induction that we are trying to estimate; we'd like to know the probability of observing our desired parameter theta given that we are observing the observed dataset (which we are): P(Θ | Data)
+
+
+in other words, we see he posterior distribution: the probability of a population parameter given the data set.
 
 This idea was immortalized either elegantly or tersely (depending on whether you’re a math major):
 
