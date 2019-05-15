@@ -4,17 +4,19 @@
 
 ### The Math Works Out
 
-Whether you’re a grizzled PhD student or green undergrad, you’ll be asked around May – what are you doing this summer?
+Whether you’re a grizzled PhD student or green undergrad, you’ll be asked around May 
 
-A seemingly innocent question, but heavy with gravitas, that quietly weighs on your mind while sinking deeper into your conciousness.
+- (a seemingly innocent question, but heavy with gravitas, weighing on your mind and sinking deeper into your conciousness) -
 
-Every bright-eyed, hungry student has been trained to dedicate precious summer months to one thing and one thing only - career advancement opportunities as an intern. 
+what are you doing this summer?
 
-And as the post-offer bliss and visions of an idyllic corporate life fade, they are quickly replaced by the harsh uncertainty that the internship may or may not result in a full-time offer. 
+Every hungry, bright-eyed student has been trained to dedicate precious summer months to interning since learning of the terms Kleiner Perkins and Goldman Sachs. 
 
-This is the exact situation a good friend of mine is in; he’s accepted an MBA internship at a well-known technology firm (ie. FAANG) and is beginning to worry about ensuring that he gets a fulltime offer as well.
+And as the post-offer bliss and visions of an idyllic corporate dream fade, they are quickly replaced by the harsh uncertainty that a full-time offer and the privelages of that life are far from guaranteed. 
 
-As doubts creep through his mind, he wonders what is the likelihood of him being hired fulltime, now that he’s gotten the internship offer?
+Take my friend who has accepted an MBA internship at a well-known technology firm (ie. FAANG) and has begin brooding over all the typical anxieties about receiving a fulltime offer.
+
+And as fantasies and doubts creep through his mind, he wonders what is the likelihood of him being hired fulltime, now that he’s gotten the internship offer?
 
 Well, good thing we have statistics to tell us about this uncertainty. 
 
@@ -24,11 +26,15 @@ The prior distribution can be understood as a proxy measurement of previous know
 
 More formally, the prior distribution is the probability of an observed dataset given a population parameter theta. 
 
-Colloquially, we might call theta  or formally
+This is an exact reversal of the logical ordering that we are trying to estimate, the posterior distribution: the probability of a population parameter given the data set.
 
 This idea was immortalized either elegantly or tersely (depending on whether you’re a math major):
 
 $$ P(A | B)=\frac{P(B|A)P(A)}{P(B)}$$
+
+So in the case of my intern friend, 
+
+
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
