@@ -8,19 +8,19 @@ Whether you’re a grizzled PhD student or green undergrad, you’ll be asked ar
 
 What are you doing this summer?
 
-Every hungry, bright-eyed student has been trained to dedicate precious summer months to interning since learning the terms Kleiner Perkins and Mckinsey. 
+An entire generation of hungry, bright-eyed students have been trained to dedicate precious summer months to interning for as long as they can remember. 
 
-And as the post-offer bliss and visions of an idyllic corporate dream fade, they are quickly replaced by the harsh uncertainty that a full-time offer and the privelages of that life are far from guaranteed. 
+And as visions of an idyllic corporate dream fade, post-offer bliss is jettisoned by the harsh uncertainty: a full-time offer is far from guaranteed. 
 
-Take my friend who has accepted an MBA internship at a well-known tech firm (ie. FAANG).
+Take my friend a summer intern at a well-known tech firm (ie. FAANG).
 
 He is thrilled and excited by the opporunity but has already began brooding over the odds of a fulltime offer.
 
 And as fantasies and doubts intermingle throughout his psyche, he is left wondering: 
 
-What is the probability of being hired fulltime as a summer intern?
+What is the probability that I'll be hired on fulltime as a summer intern?
 
-Well, good thing we have statistics to tell us about the mathematics of dealing with this uncertainty. 
+Well, good thing we have statistics to soothe us with the mathematics of dealing with this uncertainty. 
 
 ### Thanks Bayes
 
