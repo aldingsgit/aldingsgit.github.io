@@ -78,7 +78,7 @@ Summer emerges, naked and trembling,
 
 Slowly inching along,
 
-Before one day, the levee breaks. 
+Before one day, growing too big, 
 
 The pregnant bloom of the plodding equinox sweeps aside the dry tundra.
 
