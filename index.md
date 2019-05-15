@@ -36,6 +36,8 @@ This idea was immortalized either elegantly or tersely (depending on whether you
 
 $$ P(A | B)=\frac{P(B|A)P(A)}{P(B)}$$
 
+### So what about our friend?
+
 So in the case of my intern friend, 
 
 
