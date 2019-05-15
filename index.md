@@ -1,4 +1,4 @@
-## Bayesian Thinking For the Aspiring Intern (5/19)
+## Bayesian Hope For That Summer Dream (5/19)
 
 ---
 
