@@ -4,7 +4,7 @@
 
 ### The Math Works Out
 
-Whether you’re a grizzled PhD student or green undergrad, you’ll be asked around May a question innocent enough but one heavy with gravitas.
+Whether you’re a grizzled PhD student or green undergrad, you’ll be asked around May a question innocent enough but still heavy with gravitas.
 
 What are you doing this summer?
 
