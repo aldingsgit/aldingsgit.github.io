@@ -18,7 +18,7 @@ He is thrilled and excited by the opporunity but has already began brooding over
 
 And as fantasies and doubts intermingle throughout his psyche, he is left wondering: 
 
-What is the probability that I'll be hired on fulltime as a summer intern?
+"What is the probability that I'll be hired on fulltime as a summer intern?"
 
 Well, good thing we have statistics to soothe us with the mathematics of dealing with this uncertainty. 
 
