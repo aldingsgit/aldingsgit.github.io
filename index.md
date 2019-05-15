@@ -1,16 +1,16 @@
-## Bayesian Thinking in Everyday Life (5/19)
+## Bayesian Thinking For the Aspiring Intern (5/19)
 
 ---
 
 ### The Math Works Out
 
-Whether you’re a grizzled PhD student or green undergrad, you’ll inevitably be asked around May – what are you doing this summer?
+Whether you’re a grizzled PhD student or green undergrad, you’ll be asked around May – what are you doing this summer?
 
-Taken innocently, an onlooker might overlook the importance of this inquiry.
+A seemingly innocent question, but heavy with gravitas, that quietly weighs on your mind while sinking deeper into your conciousness.
 
-But every bright-eyed, ambitious student has been conditioned to spend those precious warm months advancing his or her professional skills as an intern. 
+Every bright-eyed, hungry student has been trained to dedicate precious summer months to one thing and one thing only - career advancement opportunities as an intern. 
 
-And as the post-offer bliss and visions of an idyllic job fade, they are quickly replaced by the harsh uncertainty that the internship may or may not result in a full-time offer. 
+And as the post-offer bliss and visions of an idyllic corporate life fade, they are quickly replaced by the harsh uncertainty that the internship may or may not result in a full-time offer. 
 
 This is the exact situation a good friend of mine is in; he’s accepted an MBA internship at a well-known technology firm (ie. FAANG) and is beginning to worry about ensuring that he gets a fulltime offer as well.
 
@@ -21,6 +21,10 @@ Well, good thing we have statistics to tell us about this uncertainty.
 Specifically, Bayes Rule will tell us the probability of an event based on an estimate of the prior distribution. 
 
 The prior distribution can be understood as a proxy measurement of previous knowledge or information associated with the event. 
+
+More formally, the prior distribution is the probability of an observed dataset given a population parameter theta. 
+
+Colloquially, we might call theta  or formally
 
 This idea was immortalized either elegantly or tersely (depending on whether you’re a math major):
 
