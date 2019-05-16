@@ -1,4 +1,4 @@
-## Bayesian Hope For Your Summer Ambitions (5/19)
+## Bayesian Hope For Your Summer Ambitions
 
 ---
 
@@ -8,7 +8,7 @@ Whether you’re a grizzled PhD student or green undergrad, you’ll be asked ar
 
 What are you doing this summer?
 
-For as long as any millenial can remember, generation after generation of hungry, bright-eyed students have dedicated precious summer months to one thing only-interning. 
+For as long as any millenial can remember, generation after generation of hungry, bright-eyed students have dedicated precious summer months to one thing and one thing only-interning. 
 
 And as visions of an idyllic corporate dream fade, the post-offer euphoria is jettisoned by the harsh uncertainty: a full-time offer is far from guaranteed. 
 
@@ -28,13 +28,23 @@ Bayes Rule will tell us the probability of an event based on an estimate of the 
 
 The resulting probability is known as the posterior distribution with its initial input, the prior distribution, functioning as a proxy measurement of previous knowledge or information associated with the event. 
 
-More formally, the prior distribution is the probability of a population parameter theta (Θ) given an observed dataset.
+More formally, the prior distribution is the probability of a population parameter theta (θ) given an observed dataset.
 
-A parameter is a summary metric for a population, which we can informally be defined as the entire set of observations within the group of interest we're measuring; this is distinct from the terms sample and statistic which are the corresponding analogs for some portion of the populations less than the whole.
+A parameter is a summary metric for a population, which we can informally define as the entire set of observations that constitute the group of interest we're measuring for; this is distinct from the terms sample and statistic which are the corresponding analogs for some portion of the population less than the whole.
 
 With that understanding, the prior distribution is therefore the density function of seeing the observed dataset conditioned on Θ summary metric being exactly true, or the likelihood, which in math notation is  P(Data | Θ).
 
-We multiply the likelihood by the prior probability of observing theta (Θ) and divide by a normalizing constant known as P(Data) to adjust the density function to sum to one, which by definition must be the sum or integral of any probability density function.
+For those who are rusty on their stats terminology, the density function is simply a bar graph of the relative frequency of observing some categorical or continuous within the entire populations. 
+
+For the case of the continuous variable, the x-axis units interval denoted in infinitely small intervals or in other words shown continuously. 
+
+IMAGE
+
+Returning to our procedure, we take the likelihood and we multiply it by the prior probability of observing theta (Θ) before dividing by the normalizing constant known as P(Data) to adjust the density function to sum to one. 
+
+This must be the case because by definition the density function shows the probabilities of all possible values showing them in a fashion that is  
+
+sum or integral of any probability density function.
 
 In a sometimes problematic calculation, we perform
 
