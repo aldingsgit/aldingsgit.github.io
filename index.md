@@ -6,7 +6,7 @@
 
 Whether you’re a grizzled PhD student or green undergrad, you’ll be asked around May an innocent question, ripe with feeling and heavy with gravitas.
 
-What are you doing this summer?
+"What are you doing this summer?"
 
 For as long as any millenial can remember, generation after generation of hungry, bright-eyed students have dedicated precious summer months to one thing and one thing only-interning. 
 
