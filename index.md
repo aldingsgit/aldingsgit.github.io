@@ -38,11 +38,11 @@ For those who are rusty on their stats terminology, the density function is simp
 
 For the case of the continuous variable, the x-axis units interval denoted in infinitely small intervals or in other words shown continuously. 
 
-IMAGE
-
 Returning to our procedure, we take the likelihood and we multiply it by the prior probability of observing theta (Θ) before dividing by the normalizing constant known as P(Data) to adjust the density function to sum to one. 
 
-This must be the case because by definition the density function shows the probabilities of all possible values showing them in a fashion that is  
+This must be the case because by definition the density function shows the probabilities of each possible value that the the random variables occupy an outcome summing to one. 
+
+In math jargon a complementary dijoint set and in MBA jargon, a MECE (mutually exclusive collectively exhaustive) list with all their associated probabilities.  
 
 sum or integral of any probability density function.
 
