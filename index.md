@@ -32,7 +32,7 @@ More formally, the prior distribution is the probability of a population paramet
 
 A parameter is a summary metric for a population, which we can informally define as the entire set of observations that constitute the group of interest we're measuring for; this is distinct from the terms sample and statistic which are the corresponding analogs for some portion of the population less than the whole.
 
-With that understanding, the prior distribution is therefore the density function of seeing the observed dataset conditioned on Θ summary metric being exactly true, or the likelihood, which in math notation is  P(Data | Θ).
+With that understanding, the prior distribution is the density function of seeing the observed dataset conditioned on the  summary metric being exactly Θ, or the likelihood, which in math notation is  P(Data | Θ).
 
 For those who are rusty on their stats terminology, the density function is simply a bar graph of the relative frequency of observing some categorical or continuous variable within the entire populations. 
 
