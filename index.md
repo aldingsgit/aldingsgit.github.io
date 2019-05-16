@@ -22,7 +22,7 @@ And as fantasy and doubt intermingle throughout his psyche, he is left wondering
 
 Well, good thing we can use statistics to soothe us with the math of dealing with uncertainty. 
 
-### Thanks Bayes
+### Thanks Bayes (Please Skip This Section If You're Already Bayesian)
 
 Bayes Rule will tell us the probability of an event based on an estimate of the prior distribution.
 
