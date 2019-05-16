@@ -22,7 +22,7 @@ And as fantasy and doubt intermingle throughout his psyche, he is left wondering
 
 Well, good thing we can use statistics to soothe us with the math of dealing with uncertainty. 
 
-### Thanks Bayes (Skip If You're Already Bayesian)
+### Thanks Bayes
 
 Bayes Rule will tell us the probability of an event based on an estimate of the prior distribution.
 
@@ -34,15 +34,17 @@ A parameter is a summary metric for a population, which we can informally define
 
 With that understanding, the prior distribution is therefore the density function of seeing the observed dataset conditioned on Θ summary metric being exactly true, or the likelihood, which in math notation is  P(Data | Θ).
 
-For those who are rusty on their stats terminology, the density function is simply a bar graph of the relative frequency of observing some categorical or continuous within the entire populations. 
+For those who are rusty on their stats terminology, the density function is simply a bar graph of the relative frequency of observing some categorical or continuous variable within the entire populations. 
 
-For the case of the continuous variable, the x-axis units interval denoted in infinitely small intervals or in other words shown continuously. 
+For the case of the continuous variable, the x-axis units interval denoted in infinitely small intervals with infinitely large sample size which converges then to that density function. 
 
 Returning to our procedure, we take the likelihood and we multiply it by the prior probability of observing theta (Θ) before dividing by the normalizing constant known as P(Data) to adjust the density function to sum to one. 
 
 This must be the case because by definition the density function shows the probabilities of each possible value that the the random variables occupy an outcome summing to one. 
 
-In math jargon a complementary dijoint set and in MBA jargon, a MECE (mutually exclusive collectively exhaustive) list with all their associated probabilities.  
+In math jargon we say that the density functions represent a complementary dijoint set plotted as a function of inverse probability.
+
+In MBA jargon, we might call it a MECE (mutually exclusive collectively exhaustive) list reweighted to account for probabilistic ideas.  
 
 sum or integral of any probability density function.
 
