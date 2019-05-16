@@ -1,31 +1,23 @@
-## This can be your internal website page / project page
+## Shower Thoughts (May 2019)
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### Spring
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Every May, the endless epoch of New England winter exhales one final time.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Crawling out from the depths of the frozen desert, 
 
-### 2. Assess assumptions on which statistical inference will be based
+Summer emerges, naked and trembling,
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Slowly inching along,
 
-### 3. Support the selection of appropriate statistical tools and techniques
+Before one day, growing too big, 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+The pregnant bloom of the plodding equinox sweeps aside the dry tundra.
 
-### 4. Provide a basis for further data collection through surveys or experiments
+But shame on me for forgetting..
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+There's no such thing as a New England spring!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Next year, I won't be fooled again.
