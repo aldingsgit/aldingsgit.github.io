@@ -45,12 +45,15 @@ This must be the case because by definition the density function shows the proba
 In math jargon we say that the density functions represent a complementary dijoint set plotted as a function of inverse probability.
 
 In MBA jargon, we might call it a MECE (mutually exclusive collectively exhaustive) list reweighted to account for probabilistic ideas.  
+In the denominator we have the normalizing constant which can be thought of as the portion of all possibilities and their cumlative probabilities. 
 
-sum or integral of any probability density function.
+We divide by this figure in order to mathematically bound between zero and one the proportion of all possibile outcomes and their cumulative probability to the set of all possible outcomes. 
 
-In a sometimes problematic calculation, we perform
+In a sometimes problematic calculation, we may have to perform a high dimensional inegrations across the full set of disjoint complementary predictor values proves to be no trivial task:
 
+EQUATION
 
+At times,  
 
 If we think carefully about this, this is the exact reversal of logical induction that we are trying to estimate; we'd like to know the probability of observing our desired parameter theta given that we are observing the observed dataset (which we are): P(Θ | Data)
 
@@ -59,7 +62,7 @@ in other words, we see he posterior distribution: the probability of a populatio
 
 This idea was immortalized either elegantly or tersely (depending on whether you’re a math major):
 
-P(A | B)=\frac{P(B|A)P(A)}{P(B)}
+P(A | B)= \frac{P(B|A)P(A)}{P(B)}
 
 ### So what about our friend?
 
