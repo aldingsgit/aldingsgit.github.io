@@ -22,7 +22,7 @@ And as fantasy and doubt intermingle throughout his psyche, he is left wondering
 
 Well, good thing we can use statistics to soothe us with the math of dealing with uncertainty. 
 
-### Thanks Bayes (Please Skip This Section If You're Already Bayesian)
+### Thanks Bayes (Skip If You're Already Bayesian)
 
 Bayes Rule will tell us the probability of an event based on an estimate of the prior distribution.
 
@@ -57,7 +57,7 @@ in other words, we see he posterior distribution: the probability of a populatio
 
 This idea was immortalized either elegantly or tersely (depending on whether you’re a math major):
 
-$$ P(A | B)=\frac{P(B|A)P(A)}{P(B)}$$
+P(A | B)=\frac{P(B|A)P(A)}{P(B)}
 
 ### So what about our friend?
 
