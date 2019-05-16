@@ -79,17 +79,6 @@ We didn't need all this math and statistics to get here but it sure feels nice.
 
 TEXT
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### Subtitle Two
-
-TEXT
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-TEXT
-
-
 
 ## Shower Thoughts (5/19)
 
