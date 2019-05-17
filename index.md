@@ -42,7 +42,9 @@ For those who are rusty on their stats terminology, the density function is simp
 
 For the case of the continuous variable, the x-axis units interval denoted in infinitely small intervals with infinitely large sample size which converges then to that density function. 
 
-Returning to our procedure, we take the likelihood and we multiply it by the prior probability of observing theta (Θ) before dividing by the normalizing constant known as P(Data) to adjust the density function to sum to one:
+Returning to our procedure, we take the likelihood and multiply it by the prior probability of observing theta (Θ). The prior is what you believed before you saw the evidence and the likelihood of seeing that evidence if your hypothesis is correct.
+
+In the demoniator, we divide by the normalizing constant known as P(Data) to adjust the density function to sum to one. The full equation is show below:
 EQ_3 
 
 This must be the case because by definition the density function shows the probabilities of each possible value that the the random variables occupy an outcome summing to one. 
@@ -58,19 +60,11 @@ In a sometimes problematic calculation, we may have to perform a high dimensiona
 
 EQ_4
 
-At times, we may elect to use numerical estimation methods such as MCMC (markov chain monte carlo) such as  ___,___, and __ implementations.  
-
-
-
-in other words, we see he posterior distribution: the probability of a population parameter given the data set.
-
-This idea was immortalized either elegantly or tersely (depending on whether you’re a math major):
-
-P(A | B)= \frac{P(B|A)P(A)}{P(B)}
+We sometimes use numerical estimation methods such as MCMC (Markov Chain Monte Carlo) to deal with these tricky computations.
 
 ### So what about our friend?
 
-So in the case of my intern friend, 
+So in the case of my intern friend, what are the appropriate 
 
 
 
