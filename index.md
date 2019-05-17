@@ -54,13 +54,13 @@ In math jargon we say that the density functions represent a complementary dijoi
 In MBA jargon, we might call it a MECE (mutually exclusive collectively exhaustive) list reweighted to account for probabilistic ideas.  
 In the denominator we have the normalizing constant which can be thought of as the portion of all possibilities and their cumlative probabilities. 
 
-We divide by this figure in order to mathematically bound between zero and one the proportion of all possibile outcomes and their cumulative probability to the set of all possible outcomes. 
+We divide by this figure in order to mathematically produce a proportion between zero and one, representing the likelihood of that evidence under any circumstances. 
 
 In a sometimes problematic calculation, we may have to perform a high dimensional inegrations across the full set of disjoint complementary predictor values proves to be no trivial task:
 
 EQ_4
 
-We sometimes use numerical estimation methods such as MCMC (Markov Chain Monte Carlo) to deal with these tricky computations.
+Practioners may opt to use numerical estimation methods such as MCMC (Markov Chain Monte Carlo) to deal with these tricky computations.
 
 ### So what about our friend?
 
