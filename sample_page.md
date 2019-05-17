@@ -2,9 +2,9 @@
 
 ---
 
-### Spring
+### New England Spring
 
-Every May, the endless epoch of New England winter exhales one final time.
+Every May, the endless epoch of winter exhales one final time.
 
 Crawling out from the depths of the frozen desert, 
 
