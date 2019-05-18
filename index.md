@@ -24,11 +24,11 @@ Well, good thing we can use statistics to soothe us with the math of dealing wit
 
 ### Thanks Bayes
 
-Bayes Rule will tell us the probability of an event based on an estimate of the prior distribution.
+Bayes Rule will tell us the probability of an event based on an estimate of the prior distribution and corresponding likelihood.
 
 The resulting probability is known as the posterior distribution with its initial input, the prior distribution, functioning as a proxy measurement of previous knowledge or information associated with the event. 
 
-More formally, the prior distribution is the probability of a population parameter theta (θ) given an observed dataset:
+The likelihood is the probability of a population parameter theta (θ) given an observed dataset:
 
 <img src="images/EQ_2.JPG?raw=true"/>
 
@@ -38,7 +38,7 @@ where
 
 A parameter is a summary metric for a population, which we can informally define as the entire set of observations that constitute the group of interest we're measuring for; this is distinct from the terms sample and statistic which are the corresponding analogs for some portion of the population less than the whole.
 
-With that understanding, the prior distribution is the density function of seeing the observed dataset conditioned on the  summary metric being exactly Θ. This is called the likelihood, defined as:
+With that understanding, the likelihood is the density function of seeing the observed dataset conditioned on the summary metric being exactly Θ. This is called the likelihood, defined as:
 
 <img src="images/EQ_3.JPG?raw=true"/>
 
@@ -71,9 +71,17 @@ Practioners may opt to use numerical estimation methods such as MCMC (Markov Cha
 
 ### So what about our friend?
 
-So in the case of my intern friend, what are the appropriate 
+So in the case of my intern friend, what is the appropriate rior distribution to use? 
 
+We could try using the beat distribution which is the conjugate prior.
 
+This equation can be wrote out:
+
+EQ_6
+
+If we set alpha and beta to be one we get a probability of 0.5
+
+ 
 
 
 He should feel good and optimisti cabout the future while acknowledging there is some level of uncertainty simply outside of his control. And
