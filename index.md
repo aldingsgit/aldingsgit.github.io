@@ -44,11 +44,11 @@ With that understanding, the likelihood is the density function of seeing the ob
 
 <img src="images/EQ_3.JPG?raw=true"/>
 
-The likelihood is multiplied by the prior class probability which is a measure of what the probability was of observing the outcome prior to observing6the data:
+The likelihood is multiplied by the prior class probability which is a measure of what the probability was of observing the outcome prior to observing the data:
 
 <ig src="images/EQ_6.JPG?raw=true"/>
 
-We don't have to think too hard to see that the prior and posterior distributions are reversed in terms of sequencing of predictor versus outcome or probability of Θ given observation data versus P of observing data given Θ).
+We don't have to think too hard to see that the prior and posterior distributions are reversed in terms of sequencing of predictor versus outcome or probability of Θ given observation data versus P of observing data given Θ.
 
 For those who are rusty on their stats terminology, the density function is simply a bar graph of the relative frequency of observing some categorical or continuous variable within the entire populations. 
 
@@ -56,11 +56,11 @@ For the case of the continuous variable, the x-axis units interval denoted in in
 
 Returning to our procedure, we take the likelihood and multiply it by the prior probability of observing theta (Θ). The prior is what you believed before you saw the evidence and the likelihood of seeing that evidence if your hypothesis is correct.
 
-In the demoniator, we divide by the normalizing constant known as P(Data) to adjust the density function to sum to one. At the risk of redundancy, the full equation is show below as a reminder:
+In the demoniator, we divide by the normalizing constant known as P(Data) to adjust the product of the prior and likelihood by the probability that the . At the risk of redundancy, the full equation is show below as a reminder:
 
 <img src="images/EQ_4.JPG?raw=true"/>
 
-This must be the case because by definition the density function shows the probabilities of each possible value that the the random variables occupy an outcome summing to one. 
+This sum to one of must be the case because by definition the density function shows the probabilities of each possible value that the the random variables occupy an outcome summing to one. 
 
 In math jargon we say that the density functions represent a complementary dijoint set plotted as a function of inverse probability.
 
@@ -130,6 +130,10 @@ We didn't need all this math and statistics to get here but it sure feels nice.
 Naive bayes. Diagonal covariance matrix, every predictor random variable is independent of the others. This is likely inappropriate due to that simplifying assumption but drastically reduced the number of parameters, computational volume, and complexity cost of the learner.
 
 <img src="images/Covariance_matrix.JPG?raw=true"/>
+
+### We need to test our assumptions and underlying foundation
+
+Our model is only as good as our thought quality, fit of algorithm, and data quality. 
 
 ### In conclusion, being positive never hurts, mathematically speaking.
 
