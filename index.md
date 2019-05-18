@@ -1,8 +1,8 @@
-# Bayesian Hope For Your Summer Ambitions
+## Bayesian Hope For Your Summer Ambitions
 
 ---
 
-## The Math Works Out
+### The Math Works Out
 
 Whether you’re a grizzled PhD student or green undergrad, you’ll be asked around May an innocent question, ripe with feeling and heavy with gravitas.
 
@@ -22,7 +22,7 @@ And as fantasy and doubt intermingle throughout his psyche, he is left wondering
 
 Well, good thing we can use statistics to soothe us with the math of dealing with uncertainty. 
 
-## Thanks Bayes
+### Thanks Bayes
 
 <img src="images/EQ_4.JPG?raw=true"/>
 
@@ -77,7 +77,7 @@ In a sometimes problematic calculation, we may have to perform a high dimensiona
 
 Practioners may opt to use numerical estimation methods such as MCMC (Markov Chain Monte Carlo) to deal with these thorny computations.
 
-## So what about our friend?
+### So what about our friend?
 
 So in the case of my intern friend, what is the appropriate prior distribution to use? 
 
@@ -119,7 +119,7 @@ Here are the results you'd get with the __ in the ___ row and ___ in the other r
 
 <img src="images/Sensitivity_table.JPG?raw=true"/>
 
-## So what does this all mean?
+### So what does this all mean?
 
 He should feel good and optimisti cabout the future while acknowledging there is some level of uncertainty simply outside of his control. And
 
@@ -133,13 +133,13 @@ Naive bayes. Diagonal covariance matrix, every predictor random variable is inde
 
 <img src="images/Covariance_matrix.JPG?raw=true"/>
 
-## We need to test our assumptions and underlying foundation
+### We need to test our assumptions and underlying foundation
 
 Our model is only as good as our thought quality, fit of algorithm, and data quality. 
 
-## In conclusion, being positive never hurts, mathematically speaking.
+### In conclusion, being positive never hurts, mathematically speaking.
 
-# Archive
+## Archive
 
 ---
 
