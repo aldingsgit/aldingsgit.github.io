@@ -29,11 +29,13 @@ Bayes Rule will tell us the probability of an event based on an estimate of the 
 The resulting probability is known as the posterior distribution with its initial input, the prior distribution, functioning as a proxy measurement of previous knowledge or information associated with the event. 
 
 More formally, the prior distribution is the probability of a population parameter theta (θ) given an observed dataset:
+
 <img src="images/EQ_1.JPG?raw=true"/>
 
 A parameter is a summary metric for a population, which we can informally define as the entire set of observations that constitute the group of interest we're measuring for; this is distinct from the terms sample and statistic which are the corresponding analogs for some portion of the population less than the whole.
 
 With that understanding, the prior distribution is the density function of seeing the observed dataset conditioned on the  summary metric being exactly Θ. This is called the likelihood, defined as:
+
 <img src="images/EQ_2.JPG?raw=true"/>
 
 We don't have to think too hard to see that the prior and posterior distributions are reversed in terms of sequencing of predictor versus outcome - ie. P(Θ|data) versus P(data|Θ).
@@ -45,6 +47,7 @@ For the case of the continuous variable, the x-axis units interval denoted in in
 Returning to our procedure, we take the likelihood and multiply it by the prior probability of observing theta (Θ). The prior is what you believed before you saw the evidence and the likelihood of seeing that evidence if your hypothesis is correct.
 
 In the demoniator, we divide by the normalizing constant known as P(Data) to adjust the density function to sum to one. The full equation is show below:
+
 <img src="images/EQ_3.JPG?raw=true"/>
 
 This must be the case because by definition the density function shows the probabilities of each possible value that the the random variables occupy an outcome summing to one. 
@@ -57,6 +60,7 @@ In the denominator we have the normalizing constant which can be thought of as t
 We divide by this figure in order to mathematically produce a proportion between zero and one, representing the likelihood of that evidence under any circumstances. 
 
 In a sometimes problematic calculation, we may have to perform a high dimensional inegrations across the full set of disjoint complementary predictor values proves to be no trivial task:
+
 <img src="images/EQ_4.JPG?raw=true"/>
 
 Practioners may opt to use numerical estimation methods such as MCMC (Markov Chain Monte Carlo) to deal with these tricky computations.
