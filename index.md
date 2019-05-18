@@ -65,6 +65,7 @@ We divide by this figure in order to mathematically produce a proportion between
 
 In a sometimes problematic calculation, we may have to perform a high dimensional inegrations across the full set of disjoint complementary predictor values proves to be no trivial task:
 
+<img src="images/EQ_5.JPG?raw=true"/>
 
 Practioners may opt to use numerical estimation methods such as MCMC (Markov Chain Monte Carlo) to deal with these tricky computations.
 
