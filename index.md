@@ -48,7 +48,9 @@ The likelihood is multiplied by the prior class probability which is a measure o
 
 <ig src="images/EQ_6.JPG?raw=true"/>
 
-We don't have to think too hard to see that the prior and posterior distributions are reversed in terms of sequencing of predictor versus outcome or probability of Θ given observation data versus P of observing data given Θ.
+We don't have to think too hard to see that the prior and posterior distributions are reversed in terms of sequencing of predictor versus outcome or probability of Θ given observation data versus P of observing data given Θ:
+
+EQ_12
 
 For those who are rusty on their stats terminology, the density function is simply a bar graph of the relative frequency of observing some categorical or continuous variable within the entire populations. 
 
