@@ -28,7 +28,7 @@ Bayes Rule will tell us the probability of an event based on an estimate of the 
 
 The resulting probability is known as the posterior distribution with its initial input, the prior distribution, functioning as a proxy measurement of previous knowledge or information associated with the event. 
 
-The likelihood is the probability of a population parameter theta (θ) given an observed dataset:
+The posterior probability of a population parameter theta (θ) given an observed dataset:
 
 <img src="images/EQ_2.JPG?raw=true"/>
 
@@ -41,6 +41,10 @@ A parameter is a summary metric for a population, which we can informally define
 With that understanding, the likelihood is the density function of seeing the observed dataset conditioned on the summary metric being exactly Θ. This is called the likelihood, defined as:
 
 <img src="images/EQ_3.JPG?raw=true"/>
+
+The likelihood is multiplied by the prior class probability which is a measure of what the probability was of observing the outcome prior to observing the data:
+
+EQ_6
 
 We don't have to think too hard to see that the prior and posterior distributions are reversed in terms of sequencing of predictor versus outcome or probability of Θ given observation data versus P of observing data given Θ).
 
