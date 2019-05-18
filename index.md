@@ -73,7 +73,7 @@ In a sometimes problematic calculation, we may have to perform a high dimensiona
 
 <img src="images/EQ_5.JPG?raw=true"/>
 
-Practioners may opt to use numerical estimation methods such as MCMC (Markov Chain Monte Carlo) to deal with these tricky computations.
+Practioners may opt to use numerical estimation methods such as MCMC (Markov Chain Monte Carlo) to deal with these thorny computations.
 
 ### So what about our friend?
 
