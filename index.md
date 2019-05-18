@@ -38,7 +38,7 @@ With that understanding, the prior distribution is the density function of seein
 
 <img src="images/EQ_2.JPG?raw=true"/>
 
-We don't have to think too hard to see that the prior and posterior distributions are reversed in terms of sequencing of predictor versus outcome - ie. P(Θ|data) versus P(data|Θ).
+We don't have to think too hard to see that the prior and posterior distributions are reversed in terms of sequencing of predictor versus outcome or P(Θ|data) versus P(data|Θ).
 
 For those who are rusty on their stats terminology, the density function is simply a bar graph of the relative frequency of observing some categorical or continuous variable within the entire populations. 
 
