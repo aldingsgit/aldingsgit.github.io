@@ -85,7 +85,7 @@ We didn't need all this math and statistics to get here but it sure feels nice.
 
 Naive bayes. Diagonal covariance matrix, every predictor random variable is independent of the others. This is likely inappropriate due to that simplifying assumption but drastically reduced the number of parameters, computational volume, and complexity cost of the learner.
 
-<img src="images/covariance_matrix.JPG?raw=true"/>
+<img src="images/Covariance_matrix.JPG?raw=true"/>
 
 
 ## Archive
