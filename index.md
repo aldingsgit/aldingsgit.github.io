@@ -77,18 +77,47 @@ Practioners may opt to use numerical estimation methods such as MCMC (Markov Cha
 
 ### So what about our friend?
 
-So in the case of my intern friend, what is the appropriate rior distribution to use? 
+So in the case of my intern friend, what is the appropriate prior distribution to use? 
 
-We could try using the beat distribution which is the conjugate prior.
+Well, we can think of the outcome of my friend getting an offer or not as a random variable.
 
-This equation can be wrote out:
+A random variable is essentially the outcome of an result generation process like a coin flip or roll of a die.
+
+Random variables generated out of this kind of process are known as a Bernoulli trial, which is a special case of the binomial theorem setting n, or the number of trials to one to correspond to the reality that there'll be only one result - either he gets the fulltime offer or he doesnt.
+
+EQ_8
+
+For both the Bernoulli trial and bionmial theorem, the beta distribution is the corresponding conjugate prior.
+
+The beta distribution is a family of continuous probability distributions defined on the interval from zero to one parametrized by two positive shape parameters, denoted by α and β, that appear as exponents of the random variable and control the shape of the distribution:
+
+
 
 EQ_7
 
-If we set alpha and beta to be one we get a probability of 0.5
+If we set alpha and beta to be one, we get a probability of 0.5 we gte the following result:
+
+EQ_9
+
+But if we assume the mean of the probability was left of cetner such as, the probability would be greater than one.
+
+We might correspond this to information from sound bites heard by ________, which can form the basis of a prior.
+
+Or the observation that ____ in his life typically succeeded.
+
+Which is all to say if we did the decision tree something like this:
+
+EQ_10
+
+And did all the math out to be something like this:
+
+EQ11
+
+Here are the results you'd get with the __ in the ___ row and ___ in the other row.
 
 <img src="images/Sensitivity_table.JPG?raw=true"/>
 
+### So what does this all mean?
 
 He should feel good and optimisti cabout the future while acknowledging there is some level of uncertainty simply outside of his control. And
 
@@ -102,6 +131,7 @@ Naive bayes. Diagonal covariance matrix, every predictor random variable is inde
 
 <img src="images/Covariance_matrix.JPG?raw=true"/>
 
+### In conclusion, being positive never hurts, mathematically speaking.
 
 ## Archive
 
