@@ -87,15 +87,17 @@ A random variable is essentially the outcome of an result generation process lik
 
 Random variables generated out of this kind of process are known as a Bernoulli trial, which is a special case of the binomial theorem setting n, or the number of trials to one to correspond to the reality that there'll be only one result - either he gets the fulltime offer or he doesnt.
 
-EQ_8
+<img src="images/EQ_8.JPG?raw=true"/>
 
 For both the Bernoulli trial and bionmial theorem, the beta distribution is the corresponding conjugate prior.
 
 The beta distribution is a family of continuous probability distributions defined on the interval from zero to one parametrized by two positive shape parameters, denoted by α and β, that appear as exponents of the random variable and control the shape of the distribution:
 
+<img src="images/EQ_7.JPG?raw=true"/>
 
+Here are some illustrative distribution shapes with their associated parameter values for α and β:
 
-EQ_7
+<img src="images/beta.JPG?raw=true"/>
 
 If we set alpha and beta to be one, we get a probability of 0.5 we gte the following result:
 
