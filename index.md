@@ -24,11 +24,13 @@ Well, good thing we can use statistics to soothe us with the math of dealing wit
 
 ### Thanks Bayes
 
-Bayes Rule will tell us the probability of an event based on an estimate of the prior distribution and corresponding likelihood.
+<img src="images/EQ_4.JPG?raw=true"/>
+
+Bayes Rule, pictured above, will tell us the probability of an event based on an estimate of the prior distribution and corresponding likelihood.
 
 The resulting probability is known as the posterior distribution with its initial input, the prior distribution, functioning as a proxy measurement of previous knowledge or information associated with the event. 
 
-The posterior probability of a population parameter theta (θ) given an observed dataset:
+The posterior probability of a population parameter theta (θ) given an observed dataset is:
 
 <img src="images/EQ_2.JPG?raw=true"/>
 
@@ -42,9 +44,9 @@ With that understanding, the likelihood is the density function of seeing the ob
 
 <img src="images/EQ_3.JPG?raw=true"/>
 
-The likelihood is multiplied by the prior class probability which is a measure of what the probability was of observing the outcome prior to observing the data:
+The likelihood is multiplied by the prior class probability which is a measure of what the probability was of observing the outcome prior to observing6the data:
 
-EQ_6
+<ig src="images/EQ_6.JPG?raw=true"/>
 
 We don't have to think too hard to see that the prior and posterior distributions are reversed in terms of sequencing of predictor versus outcome or probability of Θ given observation data versus P of observing data given Θ).
 
@@ -54,7 +56,7 @@ For the case of the continuous variable, the x-axis units interval denoted in in
 
 Returning to our procedure, we take the likelihood and multiply it by the prior probability of observing theta (Θ). The prior is what you believed before you saw the evidence and the likelihood of seeing that evidence if your hypothesis is correct.
 
-In the demoniator, we divide by the normalizing constant known as P(Data) to adjust the density function to sum to one. The full equation is show below:
+In the demoniator, we divide by the normalizing constant known as P(Data) to adjust the density function to sum to one. At the risk of redundancy, the full equation is show below as a reminder:
 
 <img src="images/EQ_4.JPG?raw=true"/>
 
@@ -81,11 +83,11 @@ We could try using the beat distribution which is the conjugate prior.
 
 This equation can be wrote out:
 
-EQ_6
+EQ_7
 
 If we set alpha and beta to be one we get a probability of 0.5
 
- 
+<img src="images/Sensitivity_table.JPG?raw=true"/>
 
 
 He should feel good and optimisti cabout the future while acknowledging there is some level of uncertainty simply outside of his control. And
