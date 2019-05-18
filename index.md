@@ -119,7 +119,7 @@ EQ11
 
 Here are the results you'd get with the __ in the ___ row and ___ in the other row.
 
-<img src="images/Sensitivity_table.JPG?raw=true"/>
+<img src="images/Sensitivitytable.JPG?raw=true"/>
 
 ### So what does this all mean?
 
