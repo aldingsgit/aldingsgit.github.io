@@ -10,7 +10,7 @@ Whether you’re a grizzled PhD student or green undergrad, you’ll be asked ar
 
 "What are you doing this summer?"
 
-<img src="images/TBayes.JPG?raw=true"/>
+<img src="images/Summer.JPG?raw=true"/>
 
 For as long as any millenial can remember, generations of bright-eyed students have dedicated summers to interning. 
 
