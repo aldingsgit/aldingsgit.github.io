@@ -24,9 +24,9 @@ Well, good thing we can use statistics to soothe us with the math of dealing wit
 
 ### Thanks Bayes
 
-<img src="images/Tbayes.JPG?raw=true"/>
+<img src="images/TBayes.JPG?raw=true"/>
 
-The genius pictured above and his brainchild below:
+The man himself above and his brainchild below:
 
 <img src="images/EQ_4.JPG?raw=true"/>
 
