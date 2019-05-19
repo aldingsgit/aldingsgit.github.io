@@ -4,9 +4,13 @@
 
 ### The Math Works Out
 
+<img src="images/Math.JPG?raw=true"/>
+
 Whether you’re a grizzled PhD student or green undergrad, you’ll be asked around May an innocent question, ripe with feeling and heavy with gravitas.
 
 "What are you doing this summer?"
+
+<img src="images/TBayes.JPG?raw=true"/>
 
 For as long as any millenial can remember, generations of bright-eyed students have dedicated summers to interning. 
 
@@ -14,7 +18,9 @@ And as visions of an idyllic corporate dream fade, the post-offer euphoria is je
 
 Take my friend, a summer intern at a large US-based technology firm (ie. FAANG).
 
-He feels elated for a moment before the brooding shadows of his brain begin contemplating if he'll fulltime offer.
+<img src="images/FAANG.JPG?raw=true"/>
+
+He feels elated for a moment before the brooding shadows of his brain begin contemplating if he will receive a fulltime offer.
 
 And as fantasy and doubt intermingle throughout his psyche, he is left wondering: 
 
