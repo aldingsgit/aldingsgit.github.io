@@ -149,7 +149,7 @@ Naive bayes. Diagonal covariance matrix, every predictor random variable is inde
 
 Our model is only as good as our thought quality, fit of algorithm, and data quality. 
 
-### In conclusion, being positive never hurts, mathematically speaking.
+### In conclusion, there is strong evidence that thinking positive in this situation won't hurts, mathematically speaking, but this alas, on a philosophical level was a priori the right conclusion.
 
 ## Archive
 
