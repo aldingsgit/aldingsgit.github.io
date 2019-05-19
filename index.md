@@ -8,25 +8,29 @@ Whether you’re a grizzled PhD student or green undergrad, you’ll be asked ar
 
 "What are you doing this summer?"
 
-For as long as any millenial can remember, generation after generation of hungry, bright-eyed students have dedicated precious summer months to one thing and one thing only - interning. 
+For as long as any millenial can remember, generations of bright-eyed students have dedicated summers to interning. 
 
-And as visions of an idyllic corporate dream fade, the post-offer euphoria is jettisoned by the harsh uncertainty: a full-time offer is far from guaranteed. 
+And as visions of an idyllic corporate dream fade, the post-offer euphoria is jettisoned by the harsh uncertainty: a full-time offer is far from guaranteed and this life you have chosen is far from blissful. 
 
 Take my friend, a summer intern at a large US-based technology firm (ie. FAANG).
 
-He feels blissfully thrilled for a moment before the brooding shadows of his brain begin contemplating the odds of a fulltime offer.
+He feels elated for a moment before the brooding shadows of his brain begin contemplating if he'll fulltime offer.
 
 And as fantasy and doubt intermingle throughout his psyche, he is left wondering: 
 
-"What is the probability that I'll be hired on fulltime as a summer intern?"
+"What are the odds I'll be hired on fulltime after this summer"
 
 Well, good thing we can use statistics to soothe us with the math of dealing with uncertainty. 
 
 ### Thanks Bayes
 
+<img src="images/Tbayes.JPG?raw=true"/>
+
+The genius pictured above and his brainchild below:
+
 <img src="images/EQ_4.JPG?raw=true"/>
 
-Bayes Rule, pictured above, will tell us the probability of an event based on an estimate of the prior distribution and corresponding likelihood.
+Bayes Rule (above) will tell us the probability of an event based on an estimate of the prior distribution and corresponding likelihood.
 
 The resulting probability is known as the posterior distribution with its initial input, the prior distribution, functioning as a proxy measurement of previous knowledge or information associated with the event. 
 
