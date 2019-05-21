@@ -28,9 +28,7 @@ And as fantasy and doubt intermingle throughout his psyche, he is left wondering
 
 Well, good thing we can use statistics to soothe us with the math of dealing with uncertainty. 
 
-### TLDR: applying a simple Bayesian framework for a Bernoulli trial, we advise our friend that having a positive outlook makes sense given ample evidence that he's more likely to get an offer than not, mathematically speaking.   
-
-### Thanks Bayes
+### Applying a simple Bayesian framework for a Bernoulli trial, we tell our friend, "Having a positive outlook makes sense given the ample evidence that you're more likely to get an offer than not, mathematically speaking." #thanksbayes   
 
 <img src="images/TBayes.JPG?raw=true"/>
 
