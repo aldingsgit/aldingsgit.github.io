@@ -28,6 +28,8 @@ And as fantasy and doubt intermingle throughout his psyche, he is left wondering
 
 Well, good thing we can use statistics to soothe us with the math of dealing with uncertainty. 
 
+### TLDR/abstract: using a simple Bayesian framework, we can advise our friend that being positive makes sense given ample evidence that it's mathematically more likely for him to get an offer than not.   
+
 ### Thanks Bayes
 
 <img src="images/TBayes.JPG?raw=true"/>
