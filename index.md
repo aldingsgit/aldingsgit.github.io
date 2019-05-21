@@ -139,11 +139,16 @@ He should feel good and optimisti cabout the future while acknowledging there is
 
 We didn't need all this math and statistics to get here but it sure feels nice.
 
-## Are we being naive?
+### Are we being naive?
 
-Naive bayes. Diagonal covariance matrix, every predictor random variable is independent of the others. This is likely inappropriate due to that simplifying assumption but drastically reduced the number of parameters, computational volume, and complexity cost of the learner.
+Naive bayes. Diagonal covariance matrix, every predictor random variable is independent of the others. Here, we don't directly deal with this problem because we only have one parameter. 
+
+But if we wanted to include other information, such as both the priors as a joint likelihood then, using Bayes would potentially  put us at risk of making the simplifying assumption but drastically reduced the number of parameters, computational volume, and complexity cost of the learner.
 
 <img src="images/Covariance_matrix.JPG?raw=true"/>
+
+One way to combat this in our toolkit is to use the negative binomial model where the variance is greater than the observed variance of a single parameter. This is known as variance inflation and for the single Bernoulli trial, the variances should not be greater than 0.25 from ___INSERT LATEX_____
+
 
 ### We need to test our assumptions and underlying foundation
 
